@@ -1,7 +1,6 @@
 # Passtime
 TF2 Passtime Files
-pass_arena_b1.bsp: The map we play on
-pass_push.cfg: Execute to have passtime rules
-pass_whitelist.txt: Weapon banlist
-passtimecontrol.smx: 1. Assists in banning stickybombs, shotgun, and needles 2. Controls spawns
-
+pass_arena_b3.bsp: The map we play on
+pass_push.cfg: Execute to have passtime rules (similiar to esea with slight edits)
+pass_whitelist.txt: Weapon banlist (Only Soldier, Demo, and Medic are playable)
+passtimecontrol.smx: 1. Assists in banning some stock weapons 2. Prevents spawn abuse
